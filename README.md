@@ -17,9 +17,11 @@ Installation:
 Then that's it, the application is ready to run.
 
 Test Account:
+
 Role: Employer
 email: employerdemo@test.com
 password: password1234
+
 
 Role: Admin
 email: admindemo@test.com
